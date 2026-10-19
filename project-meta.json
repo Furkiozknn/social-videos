@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "id": "social-videos",
+  "owner": "Furkiozknn",
+  "repository": "https://github.com/Furkiozknn/social-videos",
+  "homepage": null,
+  "releases": "https://github.com/Furkiozknn/social-videos/releases",
+  "status": "active",
+  "category": "profile",
+  "platform": [
+    "github-releases"
+  ],
+  "primary_language": null,
+  "technologies": [
+    "Remotion",
+    "GitHub Releases"
+  ],
+  "version": null,
+  "license": null,
+  "topics": [
+    "claude-code",
+    "remotion",
+    "shorts",
+    "social-media"
+  ],
+  "summary": "Video hosting for the Built with Claude Code series (Shorts, Reels, Stories) · Built with Claude Code serisinin kısa videoları için barındırma",
+  "key_features": [
+    "Short videos of the Built with Claude Code series for YouTube Shorts, Instagram Reels and Stories, and X",
+    "Video files live in GitHub Releases, one release per batch of episodes, so the scheduler gets stable public download URLs",
+    "The voiceover is AI-generated (Supertonic 3) and says so in the README; the videos are made with Remotion"
+  ],
+  "media": {
+    "hero": null,
+    "screenshots": [],
+    "gifs": [],
+    "videos": []
+  },
+  "tests": null,
+  "ci": {
+    "workflows": [],
+    "badge": null
+  },
+  "docs": {
+    "readme": "README.md",
+    "changelog": null,
+    "version_history": null,
+    "roadmap": null,
+    "security": null,
+    "contributing": null,
+    "license_file": null
+  },
+  "social": {
+    "headline": "Where the Built with Claude Code short videos are hosted, one release per batch of episodes.",
+    "hashtags": [
+      "claudecode",
+      "remotion"
+    ],
+    "primary_link": "https://github.com/Furkiozknn/social-videos/releases"
+  },
+  "provenance": {
+    "generated_at": "2026-10-19",
+    "generator": "hand-written",
+    "rule": "mechanical fields read from the repository and the GitHub API; editorial fields hand-written from the README; no field is generated from a guess"
+  }
+}
