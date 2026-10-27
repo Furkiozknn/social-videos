@@ -27,7 +27,7 @@
   "key_features": [
     "Short videos of the Built with Claude Code series for YouTube Shorts, Instagram Reels and Stories, and X",
     "Video files live in GitHub Releases, one release per batch of episodes, so the scheduler gets stable public download URLs",
-    "The voiceover is AI-generated (Supertonic 3) and says so in the README; the videos are made with Remotion"
+    "The voiceover is AI-generated (Google Gemini TTS for the game promos, Supertonic 3 for the older episodes) and says so in the README and every post; the videos are made with Remotion"
   ],
   "media": {
     "hero": null,
