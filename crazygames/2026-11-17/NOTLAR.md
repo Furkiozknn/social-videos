@@ -1,5 +1,5 @@
 ## peri-golf
-- Kaynak: peri-golf @ `f973528`, paketleyici arena-core `tools/portal.mjs` @ `8c67679`
+- Kaynak: peri-golf @ `b7b670d` (dil yedeği düzeltmesi dahil), paketleyici arena-core `tools/portal.mjs` @ `8c67679`
 - three.js ve yazı tipleri pakette (dış istek yok); GoatCounter yok; dış bağlantılar gizli; CrazyGames SDK v3 başta.
 - Reklam: ilk 60 sn reklam yok, sonra en çok 3 dakikada bir, yalnız doğal molalarda; reklamda ses duruyor.
 - Testler (tarayıcı, sahte SDK): çevrimdışı denetim OK (dış istek, eksik dosya, sayfa hatası, yazı tipi, boş ekran yok); mola/ödül akışı TAMAM.
@@ -23,7 +23,7 @@
 
 
 ## cay-ocagi
-- Kaynak: cay-ocagi @ `1425aa0`, paketleyici arena-core `tools/portal.mjs` @ `8c67679`
+- Kaynak: cay-ocagi @ `3c76ba0` (dil yedeği düzeltmesi dahil), paketleyici arena-core `tools/portal.mjs` @ `8c67679`
 - three.js ve yazı tipleri pakette (dış istek yok); GoatCounter yok; dış bağlantılar gizli; CrazyGames SDK v3 başta.
 - Reklam: ilk 60 sn reklam yok, sonra en çok 3 dakikada bir, yalnız doğal molalarda; reklamda ses duruyor.
 - Testler (tarayıcı, sahte SDK): çevrimdışı denetim OK (dış istek, eksik dosya, sayfa hatası, yazı tipi, boş ekran yok); mola/ödül akışı TAMAM.
@@ -55,7 +55,7 @@
 
 
 ## simit-firini
-- Kaynak: simit-firini @ `13cca47`, paketleyici arena-core `tools/portal.mjs` @ `8c67679`
+- Kaynak: simit-firini @ `c75d8db` (dil yedeği düzeltmesi dahil), paketleyici arena-core `tools/portal.mjs` @ `8c67679`
 - three.js ve yazı tipleri pakette (dış istek yok); GoatCounter yok; dış bağlantılar gizli; CrazyGames SDK v3 başta.
 - Reklam: ilk 60 sn reklam yok, sonra en çok 3 dakikada bir, yalnız doğal molalarda; reklamda ses duruyor.
 - Testler (tarayıcı, sahte SDK): çevrimdışı denetim OK (dış istek, eksik dosya, sayfa hatası, yazı tipi, boş ekran yok); mola/ödül akışı TAMAM.
