@@ -15,7 +15,7 @@ the game. The files sit in the `2026-11/` folder, named `<publish-date>-<game>-t
 `<publish-date>-sarki-<game>.mp4` for the first batch). A file URL looks like:
 
 ```
-https://raw.githubusercontent.com/Furkiozknn/social-videos/main/2026-11/2026-11-21-ebru-telefon.mp4
+https://raw.githubusercontent.com/Furkiozknn/social-videos/master/2026-11/2026-11-21-ebru-telefon.mp4
 ```
 
 ## Older releases
